@@ -1,3 +1,3 @@
 # COATI-LDM
 
-Code for (paper name with hyperlink) will be made available here in the coming weeks.
+Code for the paper [Latent Diffusion For Conditional Generation of Molecules](https://www.biorxiv.org/content/10.1101/2024.08.22.609169v1) will be made available here in the coming weeks.
